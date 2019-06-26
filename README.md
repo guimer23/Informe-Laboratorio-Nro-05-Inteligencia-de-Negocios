@@ -1,2 +1,1 @@
-# Informe-Laboratorio-Nro-05-Inteligencia-de-Negocios
-Informe de Inteligencia de Negocios
+# Informe-Laboratorio-Nro-04-Inteligencia-de-Negocios
